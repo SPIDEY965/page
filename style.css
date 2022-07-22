@@ -1,0 +1,16 @@
+.carousel-item img{
+height: 100vh;
+/* view port의 height : vh - 웹 크기 조절할 때 거기에 맞춰서 조절할 수 있도록 사용(비율) */
+/* view port의 width : vw? */
+}
+
+nav{
+  z-index: 1;
+}
+
+.skill-list{
+  display:flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 70vh;
+}
